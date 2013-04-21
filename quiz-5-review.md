@@ -9,7 +9,8 @@
         * Inserting a table using `Rmd` 
         * Inserting a figure 
             * using the usual `Rmd` command 
-            * using `\centerline{ ... }` together with `\begin{center} ... \end{center}` 
+            * using `\centerline{ ... }` 
+            * using `\begin{center} ... \end{center}` 
             * using `\includegraphics{ ... }` and changing the figure size 
         * referencing using `\ref{...}` together with `\label{...}` 
     * `R` commands
